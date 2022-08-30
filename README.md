@@ -1,5 +1,9 @@
-### Hi there 👋
+### Hello fellow human! (or bot, no hate here)
 
+I am a student at Iowa State University in aerospace engineering. This account is primarly to be used for a computer science course, although there may be some prjects from my hands on [Make to Inovate Team][1].
+I enjoy the little free time awared to myself by playing many video games. 
+The best way to contact me is through email: brkari@iastate.edu
+[1]: https://m2i.aere.iastate.edu/boeingelectric/
 <!--
 **BryceKari/BryceKari** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
