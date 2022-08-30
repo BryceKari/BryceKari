@@ -5,7 +5,10 @@ I am a student at Iowa State University in aerospace engineering. This account i
 I enjoy the little free time awared to myself by playing many video games. 
 
 The best way to contact me is through email: brkari@iastate.edu
+
 [1]: https://m2i.aere.iastate.edu/boeingelectric/
+
+
 <!--
 **BryceKari/BryceKari** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
